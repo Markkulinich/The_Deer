@@ -1,0 +1,30 @@
+body{
+  font-family: sans-serif;
+  background-color: black;
+}
+p{
+    color: white;
+    text-align: center;
+}
+h1{
+    color: red;
+}
+img{
+    height: 500px;
+}
+iframe{
+    height: 600px;
+}
+
+header{
+    text-align: center;
+}
+
+h2{
+    color: red;
+    text-align: center;
+}
+
+li{
+    color: white;
+}
